@@ -6,4 +6,6 @@
 |-|-|-|-|-|
 |`Implementation`|Statistics of Countries|`K-Means`|`Java SDK`| https://github.com/erdiolmezogullari/ml-k-means|
 
+If you want to see the further ML projects, you may visit my main repo: https://github.com/erdiolmezogullari/ml-projects
+
 Dataset: https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Clustering/K-Means#Input_data
